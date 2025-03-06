@@ -5,13 +5,13 @@ import { getStorage } from 'firebase/storage';
 import { getDatabase } from 'firebase/database';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-  authDomain: "social-bites.firebaseapp.com",
-  databaseURL: "https://social-bites-default-rtdb.firebaseio.com",
-  projectId: "social-bites",
-  storageBucket: "social-bites.appspot.com",
-  messagingSenderId: "xxxxxxxxxxxx",
-  appId: "1:xxxxxxxxxxxx:web:xxxxxxxxxxxxxxxx"
+  apiKey: "AIzaSyCWfoNPl2TQke0v9YuBSWJxQRU9PWvvVXo",
+  authDomain: "social-bite-skofficial.firebaseapp.com",
+  databaseURL: "https://social-bite-skofficial-default-rtdb.firebaseio.com",
+  projectId: "social-bite-skofficial",
+  storageBucket: "social-bite-skofficial.appspot.com",
+  messagingSenderId: "239722707022",
+  appId: "1:239722707022:web:57d9b173f2163e85be2b1f"
 };
 
 // Initialize Firebase
